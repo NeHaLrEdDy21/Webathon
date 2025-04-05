@@ -29,7 +29,7 @@ const donationCenterSchema = new mongoose.Schema({
       default: 'Point'
     },
     coordinates: {
-      type: [Number], // [longitude, latitude]
+      type: [Number], 
       default: [0, 0]
     }
   },

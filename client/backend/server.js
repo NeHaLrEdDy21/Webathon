@@ -18,6 +18,7 @@ app.use(express.json());
 
 // Routes
 app.use('/api/donation-centers', donationCentersRoutes);
+app.use('/api/eligibility', eligibilityRoutes);
 
 // Health check route
 app.get('/health', (req, res) => {

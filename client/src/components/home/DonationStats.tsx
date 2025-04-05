@@ -74,7 +74,7 @@ const DonationStats = () => {
         <div className="mt-12 text-center">
           <div className="inline-flex items-center justify-center p-4 bg-blood-red-50 rounded-full">
             <p className="text-blood-red-700 font-medium">
-              Every 2 seconds, someone in the U.S. needs blood.
+              Every 2 seconds, someone in India needs blood.
             </p>
           </div>
         </div>
