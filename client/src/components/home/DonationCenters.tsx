@@ -7,7 +7,7 @@ import { MapPin, Clock, Phone, ExternalLink } from "lucide-react";
 const centers = [
   {
     id: 1,
-    name: "Central Blood Bank",
+    name: "Central Blood Ban",
     address: "123 Main Street, San Francisco, CA 94158",
     phone: "(415) 555-1234",
     hours: "Mon-Fri: 8am-6pm, Sat: 9am-3pm",
